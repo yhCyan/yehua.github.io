@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# PERSONAL
+- Yehua Zhang
+- yehua_zhang@tju.edu.cn
 
-You can use the [editor on GitHub](https://github.com/yhCyan/yehua.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# SUMMARY
+I have conducted ACM training for one and a half years, have a good computer foundation and programming ability, and are familiar with algorithms and data structures; I am passionate about machine learning, and my research direction is natural language processing. At present, I mainly study tensor and natural language processing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# EDUCATION
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yhCyan/yehua.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Tianjin University - Master of Computer Science, 2018 ~ 2021
+- Hunan University of Science and Technology - Bachelor of Computer Science, 2008=14 ~ 2018
